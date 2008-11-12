@@ -1,0 +1,9 @@
+h1. AS3 Image Tiler
+
+This simple class loads a local external image (JPG, GIF, PNG, SWF) and tiles it within dimensions of your choosing.
+
+Need some tiling images? I've amassed a collection of them over the years. They're publicly shared on Flickr at http://www.flickr.com/photos/sikelianos/sets/72157594233031615/
+
+h2. To Do
+
+* Add support for remote images. Policy file nightmare WTF!
